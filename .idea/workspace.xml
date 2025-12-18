@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38204213-163e-4dd7-a5f0-83d7a66f4b69" name="Changes" comment="Adding Outlier Notebooks">
+    <list default="true" id="38204213-163e-4dd7-a5f0-83d7a66f4b69" name="Changes" comment="Updates">
+      <change afterPath="$PROJECT_DIR$/QQ Plots and Normal Distribution Geeks.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonProject54/Aggregating and Grouping Data Geeks.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject54/Aggregating and Grouping Data Geeks.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +82,8 @@
       <option name="presentableId" value="Default" />
       <updated>1765747194408</updated>
       <workItem from="1765747195449" duration="15265000" />
+      <workItem from="1765930066184" duration="1731000" />
+      <workItem from="1766074410919" duration="1841000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -115,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765768760075</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Updates">
+      <option name="closed" value="true" />
+      <created>1765930087331</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1765930087331</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +145,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Adding Outlier Notebooks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding Outlier Notebooks" />
+    <MESSAGE value="Updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updates" />
   </component>
 </project>
